@@ -1,0 +1,28 @@
+img{
+    margin-left: 200px;
+}
+h1{
+    text-align: center;
+    max-width: 60%;
+    padding-top:2%;
+    padding-left:18%;
+    color: #003850;
+}
+body{
+    background-color: #fff8ed;
+    width: 100%;
+    font-family:"Verdana", sans-serif ;
+}
+p{
+    font-size: large;
+    line-height: 1.6;
+    margin:20px 80px;
+}
+ a{
+    text-decoration: none;
+    color: #006a98;
+    
+}
+a:hover{
+    text-decoration: underline;
+}
